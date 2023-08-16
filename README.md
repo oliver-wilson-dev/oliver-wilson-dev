@@ -36,7 +36,7 @@ Please check out my personal website [www.oliverwilson.dev](https://oliverwilson
 
 #### [2022 - present]
 
-- Web Developer at **Sainsbury's**
-- Worked on the rollout of the Nectar for everyone proposition - Nectar discount prices for users who have signed up for a nectar card.
-- Worked on internal tooling which is used by the business to set the prices of products.
+- Senior Web Developer at **Sainsbury's**
+- Worked on the rollout of the Nectar for everyone proposition - Nectar discount prices for users who have signed up for a nectar card. (Typescript, GO)
+- Worked on internal tooling which is used by the business to set the prices of products.(Typescript, Node.js)
 - Cannot disclose further details regarding the projects that I am currently or imminently working on.
