@@ -30,12 +30,13 @@ Please check out my personal website [www.oliverwilson.dev](https://oliverwilson
 
 - Web Developer at **ITV**
   - A major contributor towards the ITV internal react component library which is used across a number of the pages on the ITV.com domain.
-  - Part of the front-end team that delivered the ITV Hub homepage, using react and next js. 
-  - Delivered a new CTV application for the ITV hub next generation devices. 
+  - Part of the front-end team that delivered the ITV Hub homepage, using react and next js.
+  - Delivered a new CTV application for the ITV hub next generation devices.
     - Lead a small team to onboard high profile third party clients Sky and VirginMedia to the ITV Hub which involved integrating with third party libraries designed to leverage the environment that the application run on for these clients.
-
 
 #### [2022 - present]
 
 - Web Developer at **Sainsbury's**
-- Cannot disclose details regarding the projects that I am currently or imminently working on.
+- Worked on the rollout of the Nectar for everyone proposition - Nectar discount prices for users who have signed up for a nectar card.
+- Worked on internal tooling which is used by the business to set the prices of products.
+- Cannot disclose further details regarding the projects that I am currently or imminently working on.
